@@ -52,7 +52,7 @@ body {
   z-index: 2;
 }
 
-.link-logo-inicio {
+.link-voltar {
   display: block; 
   position: fixed; 
   top: 20px;       
@@ -61,7 +61,7 @@ body {
   transition: transform 0.3s ease;
 }
 
-.link-logo-inicio:hover {
+.link-voltar:hover {
   transform: scale(1.1);
 }
 
