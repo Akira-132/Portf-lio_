@@ -3,5 +3,5 @@
 - [Adriel Pimentel](https://github.com/adrielpimentll)
 - [Henrique Akira](https://github.com/Akira-132)
 - [Matheus Orestes](https://github.com/matheus-orestes)
-- [Rafael Sepol](https://github.com/rafasepol)
+- [Rafael Lopes](https://github.com/rafasepol)
 - [Sophia Castro](https://github.com/Shhiaa)
